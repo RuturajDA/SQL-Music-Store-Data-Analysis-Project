@@ -139,24 +139,6 @@ The schema illustrates the relationships among various tables used in the projec
 
 ---
 
-## 📁 Project Structure
-
-Music_Store_Data_Analysis/
-
-├── Music_Store_database.sql
-
-├── Music Store Data Analysis SQL Project.sql
-
-├── Music Store Analysis-Questions.pdf
-
-├── MusicDatabaseSchema.png
-
-├── README.md
-
-└── Presentation.pptx
-
----
-
 ## ✅ Conclusion
 
 This project demonstrates how PostgreSQL can be used to analyze large datasets and generate meaningful business insights. Through SQL queries, customer behavior, sales performance, music preferences, and revenue trends can be effectively analyzed to support data-driven business decisions.
